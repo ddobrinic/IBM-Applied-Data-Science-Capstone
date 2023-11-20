@@ -12,4 +12,4 @@ Key challenges addressed in this project include:
 * Determining the optimal conditions necessary to enhance the probability of a successful landing
 
 # Table Of Contents
-1. [Data Collection with API]([https://pages.github.com/](https://github.com/ddobrinic/IBM-Applied-Data-Science-Capstone/blob/main/jupyter-labs-spacex-data-collection-api.ipynb)https://github.com/ddobrinic/IBM-Applied-Data-Science-Capstone/blob/main/jupyter-labs-spacex-data-collection-api.ipynb)
+1. [Data Collection with API](https://github.com/ddobrinic/IBM-Applied-Data-Science-Capstone/blob/main/jupyter-labs-spacex-data-collection-api.ipynb)
