@@ -16,7 +16,7 @@ Key challenges addressed in this project include:
 2. [Data Collection with Web Scraping](https://github.com/ddobrinic/IBM-Applied-Data-Science-Capstone/blob/main/jupyter-labs-webscraping.ipynb)
 3. [Data Wrangling](https://github.com/ddobrinic/IBM-Applied-Data-Science-Capstone/blob/main/labs-jupyter-spacex-Data%20wrangling.ipynb)
 4. [Exploratory Data Analysis with SQL](https://github.com/ddobrinic/IBM-Applied-Data-Science-Capstone/blob/main/jupyter-labs-eda-sql-coursera_sqllite.ipynb)
-5. [Exploratory Data Visualization](https://github.com/ddobrinic/IBM-Applied-Data-Science-Capstone/blob/main/jupyter-labs-eda-dataviz.ipynb)
+5. [Exploratory Data Visualization](https://github.com/ddobrinic/IBM-Applied-Data-Science-Capstone/blob/main/jupyter_labs_eda_dataviz.ipynb)
 6. [Interactive Visual Analytics with Folium](https://github.com/ddobrinic/IBM-Applied-Data-Science-Capstone/blob/main/lab_jupyter_launch_site_location.ipynb)
 7. [Dashboard Application](https://github.com/ddobrinic/IBM-Applied-Data-Science-Capstone/blob/main/spacex_dash_app_2.py)
 8. [Predictive Analysis - Machine Learning Lab](https://github.com/ddobrinic/IBM-Applied-Data-Science-Capstone/blob/main/SpaceX_Machine_Learning_Prediction_Part_5_jupyterlite.ipynb)
