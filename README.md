@@ -20,4 +20,4 @@ Key challenges addressed in this project include:
 6. [Interactive Visual Analytics with Folium](https://github.com/ddobrinic/IBM-Applied-Data-Science-Capstone/blob/main/lab_jupyter_launch_site_location.ipynb)
 7. [Dashboard Application](https://github.com/ddobrinic/IBM-Applied-Data-Science-Capstone/blob/main/spacex_dash_app_2.py)
 8. [Predictive Analysis - Machine Learning Lab](https://github.com/ddobrinic/IBM-Applied-Data-Science-Capstone/blob/main/SpaceX_Machine_Learning_Prediction_Part_5_jupyterlite.ipynb)
-9. [Final Powerpoint Presentation][(https://github.com/ddobrinic/IBM-Applied-Data-Science-Capstone/blob/main/Applied-Data-Science-Capstone_presentation.pdf)
+9. [Final Powerpoint Presentation](https://github.com/ddobrinic/IBM-Applied-Data-Science-Capstone/blob/main/Applied-Data-Science-Capstone_presentation.pdf)
